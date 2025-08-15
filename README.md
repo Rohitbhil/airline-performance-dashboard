@@ -8,7 +8,6 @@
 - Developed an **Interactive Flight Delay Dashboard** using **Dash** and **Plotly** to visualize and analyze U.S. Airline On-Time Performance data.  
 - The dashboard allows users to select a year from a **dropdown menu**, instantly updating all visualizations.  
 - It includes multiple interactive charts.
-- The dashboard is responsive and can optionally be shared publicly via **ngrok**.
 
 ---
 
@@ -24,14 +23,16 @@
 ---
 
 ## 🛠️ Tech Stack
-- Python  
-- Dash (including **Dash Core Components `dcc`** and **Dash HTML Components `html`**)  
+- Python
 - Plotly  
 - Pandas  
+- Dash
+- Dash Core Components `dcc`
+- Dash HTML Components `html` 
 - Pyngrok (optional for public sharing)
 ---
 
 ## 📊 Dataset
-- **File**: `Cleaned_Airline_data.csv`  
+- **File**: `us_airline_data.csv`  
 
 
